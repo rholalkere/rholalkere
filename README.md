@@ -194,7 +194,7 @@ With over **13–14 years of multi-disciplinary experience**, I operate at the i
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/rholalkere">
+  <a href="https://www.linkedin.com/in/holalkere-gangadharappa-rahul/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hgrahul.bng@gmail.com">
