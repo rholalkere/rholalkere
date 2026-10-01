@@ -31,15 +31,80 @@ With over **13–14 years of multi-disciplinary experience**, I operate at the i
 
 ### 🛠️ Technical Competency & Ecosystem
 
-```
-+-----------------------------------------------------------------------------------+
-|  AI & INTELLECTUAL SYSTEMS  | GenAI • LLM Orchestration • RAG Pipelines • Agents |
-|  ENTERPRISE BACKEND         | Java (8-21) • Spring Boot • Microservices • REST   |
-|  FRONTEND & PORTALS         | React.js • TypeScript • Next.js • Liferay/Portals |
-|  CLOUD & DEVOPS             | Docker • Kubernetes • AWS • CI/CD • Terraform      |
-|  SALES & LEADERSHIP         | Technical Pre-Sales • RFP/RFI • Corporate Training |
-+-----------------------------------------------------------------------------------+
-```
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 AI & Intelligent Systems</h4>
+      <p>
+        <img src="https://img.shields.io/badge/GenAI-7400B8?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLM_Orchestration-5A189A?style=flat-square" />
+        <img src="https://img.shields.io/badge/RAG_Pipelines-7B2CBF?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI_Agents-9D4EDD?style=flat-square" />
+      </p>
+      <ul>
+        <li>Generative AI & LLM Integration</li>
+        <li>RAG Architectures & Vector DBs</li>
+        <li>Autonomous Agent Workflows</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☕ Enterprise Backend</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Java_8--21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Microservices-00599C?style=flat-square" />
+      </p>
+      <ul>
+        <li>Java 8 – 21 Ecosystem</li>
+        <li>Spring Boot & Spring Cloud</li>
+        <li>RESTful APIs & Distributed Systems</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚛️ Frontend & Portals</h4>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      </p>
+      <ul>
+        <li>Modern Single Page Apps (SPA)</li>
+        <li>Enterprise Portals & Liferay</li>
+        <li>Micro-Frontends & UI Systems</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud & DevOps</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+      </p>
+      <ul>
+        <li>Containerization & Orchestration</li>
+        <li>AWS Cloud Infrastructure</li>
+        <li>CI/CD Automation Pipelines</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+      <h4>💼 Technical Sales & Leadership</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Technical_Pre--Sales-00F0FF?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/RFP%2FRFI_Proposals-00B4D8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Corporate_Training-0077B6?style=flat-square" />
+      </p>
+      <ul>
+        <li>Client Discovery & Solution Architecture</li>
+        <li>Technical Demos & Enterprise RFPs</li>
+        <li>Developer Enablement & Corporate Workshops</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 #### Tech Stack Badges
 <p align="left">
