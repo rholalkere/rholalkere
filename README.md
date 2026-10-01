@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Typing Animated Banner -->
+  <!-- Typing Animated Banner (Strictly URL-encoded for GitHub Camo Proxy) -->
   <a href="https://github.com/rholalkere">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00F0FF&center=true&vCenter=true&width=800&lines=⚡+HOLALKERE+GANGADHARAPPA+RAHUL;🧠+Senior+AI+%26+Java+Architect+(13%2B+Yrs);⚛️+React+%26+Enterprise+Portal+Specialist;🤝+Tech+Pre-Sales+%26+Corporate+Trainer" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00F0FF&center=true&vCenter=true&width=800&lines=HOLALKERE+GANGADHARAPPA+RAHUL%3BSenior+AI+%26+Java+Architect+(13%2B+Yrs)%3BReact+%26+Enterprise+Portal+Specialist%3BTech+Pre-Sales+%26+Corporate+Trainer" alt="Typing Banner" />
   </a>
 
   <p align="center">
@@ -24,7 +24,7 @@
 
 ### ⚡ Executive Profile
 
-> **Senior Technical Specialist & Enterprise Architect** with **13+ years** of experience driving the full software lifecycle — from pre-sales solutioning and corporate developer enablement to high-throughput Java backends, modern React UIs, and cutting-edge GenAI integrations.
+> **Holalkere Gangadharappa Rahul** is a **Senior Technical Specialist & Enterprise Architect** with **13+ years** of experience driving the full software lifecycle — from pre-sales solutioning and corporate developer enablement to high-throughput Java backends, modern React UIs, and cutting-edge GenAI integrations.
 
 - 🤖 **AI Systems**: LLM Orchestration, RAG Pipelines, Vector DBs, Autonomous Agents
 - ☕ **Java & Portals**: Spring Boot 3, Microservices, Resilience4j, Enterprise Portals
