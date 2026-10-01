@@ -2,7 +2,7 @@
 
   <!-- Typing Animated Banner -->
   <a href="https://github.com/rholalkere">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00F0FF&center=true&vCenter=true&width=800&lines=⚡+RAHUL+HOLALKERE;🧠+Senior+AI+%26+Java+Architect+(13%2B+Yrs);⚛️+React+%26+Enterprise+Portal+Specialist;🤝+Tech+Pre-Sales+%26+Corporate+Trainer" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00F0FF&center=true&vCenter=true&width=800&lines=⚡+HOLALKERE+GANGADHARAPPA+RAHUL;🧠+Senior+AI+%26+Java+Architect+(13%2B+Yrs);⚛️+React+%26+Enterprise+Portal+Specialist;🤝+Tech+Pre-Sales+%26+Corporate+Trainer" alt="Typing Banner" />
   </a>
 
   <p align="center">
@@ -12,7 +12,7 @@
   <!-- GitHub Profile Trophies -->
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=rholalkere&theme=onedark&column=6&margin-w=10&margin-h=10&no-bg=true" alt="Rahul's Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=rholalkere&theme=onedark&column=6&margin-w=10&margin-h=10&no-bg=true" alt="Holalkere Gangadharappa Rahul's Trophies" />
     </a>
   </p>
 
@@ -179,6 +179,6 @@
   </a>
 
   <br /><br />
-  <sub>Architected & Maintained by <b>Rahul Holalkere</b> • Powered by GitHub & Markdown</sub>
+  <sub>Architected & Maintained by <b>Holalkere Gangadharappa Rahul</b> • Powered by GitHub & Markdown</sub>
 
 </div>
